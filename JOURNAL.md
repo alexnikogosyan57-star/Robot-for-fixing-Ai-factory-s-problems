@@ -30,7 +30,7 @@ I finished building the shared case for the H-Bridge and Arduino. It looks great
 
 **Total time spent: 1 hours 1 minute**
 
-# November 3: New sensors, accuracy, yellow line and black line.
+# November 4: New sensors, accuracy, yellow line and black line.
 
 I examined the design in detail and resized the parts intended to fit into the slots, accounting for the slight expansion (a few millimeters) that occurs during 3D printing. I added an extra TCRT5000 IR sensor on the right side and a VEML6400 color recognition sensor on the left to detect the yellow line and ensure smoother line-following performance. I also created a section of the test track's black line to visualize the scale in a real-world context.
 
