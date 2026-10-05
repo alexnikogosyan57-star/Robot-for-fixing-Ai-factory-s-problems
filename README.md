@@ -8,7 +8,7 @@ The field contains **8 different tasks**, divided into **3 easy, 3 medium, and 2
 
 ## Competition Field
 
-![pcb layout](field_of_trials_Ai_factory.png)
+![pcb layout](Files/Competition/field_of_trials-Ai_factory.png)
 
 *This is the competition field for ArmRobotics2026.*
 
