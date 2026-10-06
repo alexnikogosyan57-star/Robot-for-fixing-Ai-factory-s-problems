@@ -40,7 +40,7 @@ I examined the design in detail and resized the parts intended to fit into the s
 
 **Total time spent: 1 hours 53 minute**
 
-# November 4: New sensors and driver
+# November 6: New sensors and driver
 
 I bought an ESP32-CAM to serve as the robot's eyes; a TB6612FNG driver, which is more compact and cost-effective than the L298N; collision and limit microswitches so the robot can detect contact with objects (for instance, in the second task); and U-shaped breadboard wires, which are more convenient to use than standard breadboard jumper wires.
 
