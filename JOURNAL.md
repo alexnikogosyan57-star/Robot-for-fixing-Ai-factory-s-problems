@@ -42,8 +42,17 @@ I examined the design in detail and resized the parts intended to fit into the s
 
 # November 6: New sensors and driver
 
-I bought an ESP32-CAM to serve as the robot's eyes; a TB6612FNG driver, which is more compact and cost-effective than the L298N; collision and limit microswitches so the robot can detect contact with objects (for instance, in the second task); and U-shaped breadboard wires, which are more convenient to use than standard breadboard jumper wires.
+I bought an ESP32-CAM to serve as the robot's eyes; a TB6612FNG driver, which is more compact and cost-effective than the L298N; TCRT5000 for black line tracking; collision and limit microswitches so the robot can detect contact with objects (for instance, in the second task); and U-shaped breadboard wires, which are more convenient to use than standard breadboard jumper wires.
 
 ![soldering](<Files/Images/Building/Screenshot 2026-10-06 195342.png>)
 
 **Total time spent: 20 minute**
+
+# November 6: 3D Hand for Robot
+
+I modeled an arm for the robot and assembled the components. It is powered by an HG90 servo motor and is very well-suited for picking up objects.
+
+![soldering](<Files/Images/3D/Screenshot 2026-10-15 103838.png>)
+![soldering](<Files/Images/3D/Screenshot 2026-10-15 103914.png>)
+
+**Total time spent: 49 minute**
