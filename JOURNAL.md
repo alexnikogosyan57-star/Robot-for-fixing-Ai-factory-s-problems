@@ -48,7 +48,7 @@ I bought an ESP32-CAM to serve as the robot's eyes; a TB6612FNG driver, which is
 
 **Total time spent: 20 minute**
 
-# November 6: 3D Hand for Robot
+# November 14: 3D Hand for Robot
 
 I modeled an arm for the robot and assembled the components. It is powered by an HG90 servo motor and is very well-suited for picking up objects.
 
